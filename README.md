@@ -1,7 +1,7 @@
 # ESSE PROJETO É UM TESTE DE CONEXÃO COM BANCO DE DADOS MySQL COM Node.js
 
 
-COMO RODAR O PROJETO
+#### COMO RODAR O PROJETO
 
 Instalar todas as dependencias indicadas pelo package.json
 `npm install`
