@@ -17,7 +17,7 @@ Gerencia as requisições, rotas e URLs como outras funcionalidades
 
 Rodar o PROJETO
 
-`node index.js`
+`node app.js`
 
 Acessar o projeto no navegador
 
