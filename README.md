@@ -41,3 +41,4 @@ Instalando o drive do banco de dados
 
 `npm install --save mysql2`
 
+Duvidas referente ao codigo = otavioveira32@gmail.com
